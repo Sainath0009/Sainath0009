@@ -48,10 +48,6 @@
 </div>
 </div>
 
-### 🔭 Featured Projects :
-- **Project Name:** [Project Link](#)
-- **Project Name:** [Project Link](#)
-- **Project Name:** [Project Link](#)
 
 ### ⚡ Fun fact :
 I find inspiration in music, and I often create my best code while listening to my favorite tunes.
