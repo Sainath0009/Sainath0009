@@ -43,7 +43,7 @@
 ###
   
   <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sainath0009&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" style="margin-right: 8px; " />
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainath0009&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages"  />
 </div>
 </div>
